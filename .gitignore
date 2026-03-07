@@ -208,3 +208,8 @@ __marimo__/
 
 # LangChain Chat with your Data
 db/
+
+# Evaluating and Debugging Generative AI using Weights and Biases
+.idea/
+wandb/
+weights/

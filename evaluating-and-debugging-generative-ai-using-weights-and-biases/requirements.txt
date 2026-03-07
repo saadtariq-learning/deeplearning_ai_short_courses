@@ -1,0 +1,9 @@
+ipykernel
+matplotlib==3.10.3
+wandb==0.21.0
+torch==2.7.1
+torchvision==0.22.1
+tokenizers==0.15.2
+transformers==4.38.0
+datasets==3.6.0
+accelerate==0.28.0
