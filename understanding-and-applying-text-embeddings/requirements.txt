@@ -1,0 +1,8 @@
+python-dotenv
+google-cloud-aiplatform
+scikit-learn
+mplcursors
+pandas
+tqdm
+pyarrow
+scann==1.4.0
