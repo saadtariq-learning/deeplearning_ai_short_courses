@@ -1,0 +1,10 @@
+python-dotenv
+cohere
+weaviate-client==3.26.7
+pandas
+numpy
+numba
+umap-learn
+altair
+datasets
+Annoy
