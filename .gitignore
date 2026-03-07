@@ -236,3 +236,6 @@ merging_index_1/
 
 #Building Applications with Vector Databases
 data/
+
+# Open Source Models with Huggingface
+hugging_env/
