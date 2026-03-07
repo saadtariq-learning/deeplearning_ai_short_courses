@@ -1,0 +1,7 @@
+python-dotenv
+llama-index==0.12.52
+llama-index-embeddings-huggingface==0.5.5
+trulens-eval==2.1.1
+trulens-providers-openai==2.1.1
+trulens-apps-llamaindex>=1.0.0
+matplotlib==3.10.5

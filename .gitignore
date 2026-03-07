@@ -213,3 +213,12 @@ db/
 .idea/
 wandb/
 weights/
+
+# Building and Evaluating Advanced RAG
+sentence_index/
+merging_index/
+default.sqlite
+sentence_index_1/
+sentence_index_3/
+merging_index_0/
+merging_index_1/
