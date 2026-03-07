@@ -239,3 +239,6 @@ data/
 
 # Open Source Models with Huggingface
 hugging_env/
+
+# Preprocessing Unstructured Data for LLM Applications
+chroma_db/
